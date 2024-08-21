@@ -1,0 +1,2 @@
+# ecclesiabot
+bible ai app
